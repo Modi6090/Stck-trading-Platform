@@ -1,0 +1,7 @@
+# Ignore all node_modules folders in project
+node_modules/
+
+# Common ignores
+.env
+*.log
+.DS_Store
